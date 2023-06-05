@@ -1,0 +1,5 @@
+credentials.sh
+node_modules
+nodejs-lambda.zip
+package-lock.json
+nodejs-lambda.json
